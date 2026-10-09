@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/fsfalch/Firme-Releases/releases/download/v0.2.0/Firme-0.2.0.apk",
-  "sha256": "556b1ad5f58f8a62df89d58d86cf3d37faa138b97bd8b1aec426ec09eda8de24",
-  "notes": "Clubes privados e convites seguros, navegação inferior compacta.",
+  "versionCode": 5,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/fsfalch/Firme-Releases/releases/download/v0.2.1/Firme-0.2.1.apk",
+  "sha256": "b0b4479105c1f9e22a6ab3a06930e02c973cc0f266f62b9f9b9c16847e6204f7",
+  "notes": "Experiência visual renovada: boas-vindas com fotografia, novo menu, telas mais simples e navegação mais direta.",
   "mandatory": false
 }
